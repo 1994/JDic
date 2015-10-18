@@ -25,7 +25,7 @@ For example:
  
  - jd 测试
 
- ![](http://7xawrk.com1.z0.glb.clouddn.com/15-10-18/62848779.jpg)
+![](http://7xawrk.com1.z0.glb.clouddn.com/15-10-18/62848779.jpg)
 
 
  - jd test 测试
