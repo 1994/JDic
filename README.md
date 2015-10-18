@@ -1,5 +1,5 @@
 ##What is JDic
-It's command line tool written in Java to translate Chinese<-> English based on [BaiduAPI][1].
+It's a command line tool written in Java to translate Chinese<-> English based on [BaiduAPI][1].
 
 It depends on
 
