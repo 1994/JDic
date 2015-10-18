@@ -10,7 +10,7 @@ It depends on
 ##Get Started
 
     wget https://github.com/1994/JDic/releases/download/1.0/JDic-1.0.jar
-    echo "alias jd='java -jar JDic-1.0.jar'">>~/.bashrc^C
+    echo "alias jd='java -jar JDic-1.0.jar'">>~/.bashrc
     
 ##Base usage
     
@@ -20,16 +20,20 @@ It depends on
 For example:
   
  - jd test
+
 ![](http://7xawrk.com1.z0.glb.clouddn.com/15-10-18/50806598.jpg)
  
  - jd 测试
+
  ![](http://7xawrk.com1.z0.glb.clouddn.com/15-10-18/62848779.jpg)
 
 
  - jd test 测试
+
 ![](http://7xawrk.com1.z0.glb.clouddn.com/15-10-18/3268308.jpg)
 
  - jd -s Releases are a great way to ship projects on GitHub to your users
+
 ![](http://7xawrk.com1.z0.glb.clouddn.com/15-10-18/36765136.jpg)
 
 It works well on Linux,enjoy it :-)
