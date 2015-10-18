@@ -1,0 +1,5 @@
+BAIDU_API=NToYfrTzdT3VBp5FspM4Cvxp
+
+DICURL=http://openapi.baidu.com/public/2.0/translate/dict/simple
+
+TRANSURL=http://openapi.baidu.com/public/2.0/bmt/translate

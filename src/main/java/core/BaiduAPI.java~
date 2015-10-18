@@ -17,7 +17,7 @@ import java.util.Map;
  */
 public class BaiduAPI {
 
-    private static final String BAIDUAPI = "YOURAPI";
+    private static final String BAIDUAPI = "NToYfrTzdT3VBp5FspM4Cvxp";
     private static final String DIC = "http://openapi.baidu.com/public/2.0/translate/dict/simple";
     private static final String TRANSLATE = "http://openapi.baidu.com/public/2.0/bmt/translate";
 
